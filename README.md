@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Vikaash P
+Name : Priyadharshini E
 
-Reg no: 212223240180
+Reg no: 212223230159
 
-Date of experiment : 23.10.2024
+Date of experiment : 13.03.2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
